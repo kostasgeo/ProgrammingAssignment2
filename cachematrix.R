@@ -1,4 +1,4 @@
-## cachematrix contains two functions
+## cachematrix contains two functions:
 ## 1. makeCacheMatrix() that creates a special matrix
 ## that can cache its inverse, in order to avoid 
 ## recomputing when needed and the matrix has not 
